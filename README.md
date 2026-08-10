@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dhruv Rana 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&lines=Cyber+Security+Student;Linux+Enthusiast;Python+Developer;Log+Analysis+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&lines=Cyber+Security+Student;Linux+Enthusiast;Python+Developer;Log+Analysis+Practitioner;Penetratio+Tester" alt="Typing SVG" />
 </p>
 
 ### 🛡️ About Me
