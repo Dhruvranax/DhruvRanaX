@@ -43,5 +43,5 @@ I am a 20-year-old Msc Digital Forensics & Cyber Security student passionate abo
 
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=DhruvRanaX&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
