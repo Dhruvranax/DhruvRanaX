@@ -1,49 +1,54 @@
-> whoami
-
-I am an MSc Digital Forensics & Cyber Security student
-interested in cybersecurity, digital forensics,
-network security and security research.
-
-> current_focus/
-
-🔐 Cybersecurity
-🕵️ Digital Forensics
-🌐 Network Security
-🐧 Linux
-🐍 Python
-
-> learning/
-
-Nmap
-Wireshark
-Burp Suite
-Metasploit
-Python
-Linux
-Networking
-
-> projects/
-
-🔹 Network Scanning Lab
-🔹 Web Security Lab
-🔹 Digital Forensics Practice
-🔹 Python Security Scripts
-
-> currently_learning/
-
-Digital Forensics
-Penetration Testing
-Network Security
-Python for Cybersecurity
-
-> future_focus/
-
-Security Research
-Digital Forensics
-Cybersecurity Automation
-
-> connect/
-
-LinkedIn
-GitHub
-Portfolio
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│                    DHruv RANA                        │
+│          Cybersecurity • Digital Forensics           │
+│                                                      │
+│      [ LinkedIn ] [ Portfolio ] [ GitHub ]           │
+│                                                      │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  > whoami                                            │
+│                                                      │
+│  MSc Digital Forensics & Cyber Security student      │
+│  interested in cybersecurity, digital forensics      │
+│  and security research.                              │
+│                                                      │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  > current_focus/                                    │
+│                                                      │
+│  🔐 Cybersecurity                                    │
+│  🕵️ Digital Forensics                               │
+│  🌐 Network Security                                 │
+│  🐧 Linux                                            │
+│  🐍 Python                                           │
+│                                                      │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  > tools/                                            │
+│                                                      │
+│  Nmap    Wireshark    Burp Suite    Metasploit       │
+│                                                      │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  > projects/                                         │
+│                                                      │
+│  🔹 Project 1                                        │
+│  🔹 Project 2                                        │
+│  🔹 Project 3                                        │
+│                                                      │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  > currently_learning/                               │
+│                                                      │
+│  Penetration Testing                                 │
+│  Digital Forensics                                   │
+│  Python for Cybersecurity                            │
+│                                                      │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  > future/                                           │
+│                                                      │
+│  Security Research • Open Source • CTF              │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
