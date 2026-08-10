@@ -24,8 +24,8 @@ I am a 20-year-old Msc Digital Forensics & Cyber Security student passionate abo
 ---
 
 ### 📈 GitHub Stats
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical&hide_border=true)
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvRanaXE&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvRanaX&layout=compact&theme=radical&hide_border=true)
 
 ---
 
