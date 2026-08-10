@@ -5,7 +5,7 @@
 </p>
 
 ### 🛡️ About Me
-I am a 20-year-old student passionate about **Cyber Security**, **Web Security**, and **Linux systems**. I prefer hands-on learning—building, breaking, and analyzing logs—over passive theory. I am currently deepening my knowledge in Linux internals (LFS) and Python automation.
+I am a 20-year-old Msc Digital Forensics & Cyber Security student passionate about **Cyber Security**, **Web Security**, and **Linux systems**. I prefer hands-on Labs practices . I am currently Focus on Penetration Testing and Linux.
 
 ---
 
@@ -15,6 +15,9 @@ I am a 20-year-old student passionate about **Cyber Security**, **Web Security**
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-167EC6?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
 </p>
 
@@ -30,12 +33,13 @@ I am a 20-year-old student passionate about **Cyber Security**, **Web Security**
 *   **Linux:** Advancing through Linux From Scratch (LFS).
 *   **Security:** Web security auditing and practical log analysis.
 *   **Automation:** Building tools in Python to automate daily security tasks.
+*   **Penetration Testing**  practices nmap for port scanning , Wireshark for packet analysis
 
 ---
 
 ### 📬 Connect With Me
-*   **Email:** [Your Email Address]
-*   **LinkedIn:** [Link to your Profile]
+*   **Email:** dhruvrrana2@gmail.com
+*   **LinkedIn:** www.linkedin.com/in/dhruv-rana-1b35782a1
 
 <br>
 <p align="center">
