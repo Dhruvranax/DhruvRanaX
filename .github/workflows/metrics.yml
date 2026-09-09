@@ -1,0 +1,38 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # દર 6 કલાકે auto-update
+  workflow_dispatch:          # Actions ટેબમાંથી manually પણ run કરી શકાય
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+
+          # Base card: profile summary, activity, community, repositories
+          base: header, activity, community, repositories, metadata
+
+          # Top languages card
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+
+          # Achievements card (trophies જેવું — milestones/badges)
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+          # Theme (README ના dark cyan theme સાથે match)
+          template: classic
+          config_display: large
