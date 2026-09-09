@@ -196,13 +196,11 @@ A security-oriented analytics project combining structured data, investigation w
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=DhruvRanaX&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=00E5FF&icon_color=00E5FF&text_color=E6F7FF&bg_color=050B14" alt="GitHub statistics"/>
 <img height="175" src="https://streak-stats.demolab.com/?user=DhruvRanaX&theme=tokyonight&hide_border=true&background=050B14&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvRanaX&layout=compact&hide_border=true&theme=tokyonight&title_color=00E5FF&text_color=E6F7FF&bg_color=050B14" alt="Top languages"/>
-<img height="175" src="https://github-profile-trophy.vercel.app/?username=DhruvRanaX&theme=onestar&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub trophies"/>
+<img src="https://raw.githubusercontent.com/DhruvRanaX/DhruvRanaX/main/metrics.svg" alt="GitHub metrics: stats, languages, achievements" width="100%"/>
 
 </div>
 
