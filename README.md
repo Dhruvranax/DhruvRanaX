@@ -8,7 +8,7 @@
 
 <a href="https://github.com/DhruvRanaX"><img src="https://komarev.com/ghpvc/?username=DhruvRanaX&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views"/></a>
 <a href="https://github.com/DhruvRanaX?tab=followers"><img src="https://img.shields.io/github/followers/DhruvRanaX?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" alt="Followers"/></a>
-<a href="https://github.com/DhruvRanaX"><img src="https://img.shields.io/github/commit-activity/y/DhruvRanaX?style=for-the-badge&logo=git&label=COMMIT+ACTIVITY&color=111827" alt="Commit activity"/></a>
+<a href="https://github.com/DhruvRanaX?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=REPOS&color=111827&query=public_repos&url=https://api.github.com/users/DhruvRanaX" alt="Public repos"/></a>
 
 <br/><br/>
 
@@ -182,7 +182,7 @@ A security-oriented analytics project combining structured data, investigation w
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvRanaX&custom_title=DhruvRanaX%20%7C%20Contribution%20Activity&hide_border=true&bg_color=050B14&color=00E5FF&line=00E5FF&point=FFFFFF&area=true" width="96%" alt="Contribution activity graph"/>
+<img src="https://raw.githubusercontent.com/DhruvRanaX/DhruvRanaX/main/calendar.svg" width="96%" alt="Contribution activity calendar"/>
 
 <br/><br/>
 
